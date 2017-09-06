@@ -1,0 +1,20 @@
+---
+---
+
+@charset 'utf-8';
+@import 'bootstrap/functions';
+@import 'custom_vars';
+@import 'bootstrap/bootstrap';
+
+.front {
+  #logo {
+    max-width: 400px;
+    margin: 140px 0;
+  }
+  p {
+    font-family: 'Nunito', sans-serif;
+    color: #6d6e70;
+    font-size: 12pt;
+    line-height: 18pt;
+  }
+}

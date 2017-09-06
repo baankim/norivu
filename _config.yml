@@ -1,0 +1,15 @@
+# Meta
+title: norivu
+description: korean restaurant in Bonn-Friesdorf.
+
+url:
+baseurl: ''
+permalink: pretty
+
+# Build
+exclude:
+  - .jekyll-metadata
+  - .gitignore
+
+sass:
+  style: :compressed
